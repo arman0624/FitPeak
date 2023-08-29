@@ -1,2 +1,1 @@
-# FitPeak
-Android based fitness app
+# ESE-343-Final-Project
